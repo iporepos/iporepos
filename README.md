@@ -5,12 +5,16 @@
 [![Markdown](https://img.shields.io/badge/Markdown-%23316192.svg?logo=markdown&logoColor=white)](#)
 [![LaTeX](https://img.shields.io/badge/LaTeX-%23316192.svg?logo=LaTeX&logoColor=white)](#)
 [![Sphinx](https://img.shields.io/badge/Sphinx-150458?logo=sphinx&logoColor=fff)](#)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-150458?logo=numpy&logoColor=fff)](#)
+[![SciPy](https://img.shields.io/badge/SciPy-150458?logo=scipy&logoColor=fff)](#)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-150458?logo=matplotlib&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![Geopandas](https://img.shields.io/badge/GeoPandas-150458?logo=geopandas&logoColor=fff)](#)
 [![Obsidian](https://img.shields.io/badge/Obsidian-000000.svg?&logo=obsidian&logoColor=white)](#)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=fff)](#)
+[![QGIS](https://img.shields.io/badge/QGIS-000000?logo=QGIS&logoColor=white)](#)
 [![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white)](#)
+
 
 ### Hi there, I'm Ipo 👋
 
