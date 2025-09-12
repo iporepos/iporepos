@@ -12,7 +12,7 @@
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=fff)](#)
 [![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white)](#)
 
-### Hi there I'm Ipo 👋
+### Hi there, I'm Ipo 👋
 
 - 🔭 I do some research and consulting projects :bookmark_tabs:
 - 🌱 I’m currently learning how to surf waves :surfing_man: (and to code simulation models) 
