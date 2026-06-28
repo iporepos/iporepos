@@ -21,8 +21,8 @@
 - 🌱 I’m currently learning how to surf waves :surfing_man: (and to code simulation models) 
 - 💬 Ask me about hydrology and water resources engineering :droplet:
 
-### check out my website (in portuguese):
-https://ipoverso.net/
+### check out my website:
+https://possantti.net/
 
 ### reach me on:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]([#](https://www.linkedin.com/in/possantti/))
